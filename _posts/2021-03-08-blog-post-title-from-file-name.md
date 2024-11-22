@@ -1,6 +1,6 @@
 ## Blog Post Title From First Header
 
-This GitHub Pages account was set up using <a href="https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html">instructions provided by Chad Baldwin.</a>
+This GitHub Pages account was set up 11/22/24 using <a href="https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html">instructions provided by Chad Baldwin.</a>
 ---
 
 ### This is a header
