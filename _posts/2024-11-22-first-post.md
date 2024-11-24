@@ -1,5 +1,5 @@
 ## First Post
----
+
 This GitHub Pages account was set up 11/22/24 using <a href="https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html">instructions and code provided by Chad Baldwin.</a>
 
 
