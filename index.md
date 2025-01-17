@@ -19,7 +19,7 @@
            margin-left: auto;
           margin-right: auto;
           text-align: center;
-          border: 3px #ae8a2e;
+          
           width: 100%;
         }
 
@@ -70,7 +70,7 @@
    <font size="6"> <p class="p3">Nothing here yet</p></font>
 </div>
   <p></p>
-<div class="container">
+
         <div class="column">
 <img src="tea.png" alt="tea cup and pants" width="100%">
         </div>
@@ -80,7 +80,7 @@
         <div class="column">
 <img src="verticalyarn.png" alt="Vertical strips of yarn" width="100%" >
         </div>
-</div>  
+
   
 <img src="amere.png" alt="patience is bitter but the fruit is sweet" width="100%">
 <div class="center2">
