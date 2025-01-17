@@ -1,3 +1,6 @@
+---
+layout: home 
+---
 <html>
 <head>
 <style>
@@ -29,6 +32,7 @@
   <div class="column">
 <img src="amere.png" alt="patience is bitter but the fruit is sweet" width="50%" class="center">
   </div>
+</div>
 <img src="tea.png" alt="tea cup and pants" width="30%">
 <img src="cloudwool.png" alt="wool looking like clouds on a blue background" width="30%" >
 <img src="verticalyarn.png" alt="Vertical strips of yarn" width="30%" >
