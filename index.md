@@ -11,12 +11,12 @@ layout: home
   margin-right: auto;
 }
 
-div {
+/*div {
   height: 100px;
   line-height: 100px;
   text-align: center;
   border: 2px dashed #f69c55;
-}
+}*/
 
     .center1 {
           text-align: center;
