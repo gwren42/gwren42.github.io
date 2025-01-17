@@ -19,7 +19,7 @@
            margin-left: auto;
           margin-right: auto;
           text-align: center;
-          border: 3px solid green;
+          border: 3px #ae8a2e;
           width: 100%;
         }
 
@@ -45,25 +45,19 @@
             /* Adds space between columns */
         }
    .column {
-            padding: 10px;
+            padding: 3px;
             /* Adds padding inside each column */
         }
 
         .column:nth-child(1) {
-            background-color: #ff694b;
-            /* Light grey background for the first column */
         }
 
         .column:nth-child(2) {
-            background-color: #e6e6e6;
-            /* Slightly darker grey 
-          background for the second column */
-        }
+            background-color: #f0c2cf;
+         }
 
         .column:nth-child(3) {
             background-color: #f0c2cf;
-            /* Slightly darker grey 
-          background for the third column */
         }
 </style>
 
