@@ -4,6 +4,10 @@ layout: home
 <html>
 <head>
 <style>
+  .center {
+  text-align: center;
+  border: 3px solid green;
+}
   .p3 {
   font-family: "Lucida Console", "Courier New", monospace;
 }
@@ -36,11 +40,12 @@ layout: home
 <img src="spbanner2.png" alt="Lisa Makes Stuff Banner" width="90%" class="center"><br>
 <div class="container">
         <div class="column">
-<p class="p3">Nothing here yet</p>
+<img src="amere.png" alt="patience is bitter but the fruit is sweet" width="100%" class="center">
 </div>
-  <div class="column">
-<img src="amere.png" alt="patience is bitter but the fruit is sweet" width="50%" class="center">
-  </div>
+  <div class="column"><div class="center"
+   <font size="5"> <p class="p3">Nothing here yet</p></font>
+
+  </div></div>
 </div>
 <img src="tea.png" alt="tea cup and pants" width="30%">
 <img src="cloudwool.png" alt="wool looking like clouds on a blue background" width="30%" >
