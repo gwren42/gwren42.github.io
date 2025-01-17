@@ -57,33 +57,29 @@ div {
 </style>
 
 <body>
-<img src="spbanner2.png" alt="Lisa Makes Stuff Banner" width="90%"><br>
+  <div>
+<img src="spbanner2.png" alt="Lisa Makes Stuff Banner" width="95%"></div>
+
 <div class="center1">
-   <font size="5"> <p class="p3">Nothing here yet</p></font>
-
-  </div>
-  
-  
-  <div class="container">
-        <div class="column">
-<img src="amere.png" alt="patience is bitter but the fruit is sweet" width="100%">
+   <font size="6"> <p class="p3">Nothing here yet</p></font>
 </div>
-  <div class="column"><div class="center1">
-   <font size="5"> <p class="p3">Nothing here yet</p></font>
-
-  </div></div>
-</div>
-
+  
 <div class="container">
         <div class="column">
-<img src="tea.png" alt="tea cup and pants" width="30%">
+<img src="tea.png" alt="tea cup and pants" width="100%">
         </div>
         <div class="column">
-<img src="cloudwool.png" alt="wool looking like clouds on a blue background" width="30%" >
+<img src="cloudwool.png" alt="wool looking like clouds on a blue background" width="100%" >
           </div>
         <div class="column">
-<img src="verticalyarn.png" alt="Vertical strips of yarn" width="30%" >
-        </div></div>
-</body>
+<img src="verticalyarn.png" alt="Vertical strips of yarn" width="100%" >
+        </div></div>  
+  
+<img src="amere.png" alt="patience is bitter but the fruit is sweet" width="100%">
+
+ 
+
+
+  </body>
   </head>
   </html>
