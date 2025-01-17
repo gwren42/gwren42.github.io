@@ -22,6 +22,15 @@
           border: 3px solid green;
           width: 95%;
         }
+
+  .center2 {
+           margin-left: auto;
+          margin-right: auto;
+          text-align: center;
+          background-color: #e6e6e6;
+          width: 95%;
+        }
+        
     .p3 {
         font-family: "Lucida Console", "Courier New", monospace;
         }
@@ -39,7 +48,7 @@
         }
 
         .column:nth-child(1) {
-            background-color: #f2f2f2;
+            background-color: #ff694b;
             /* Light grey background for the first column */
         }
 
@@ -50,7 +59,7 @@
         }
 
         .column:nth-child(3) {
-            background-color: #e6e6e6;
+            background-color: #ff694b;
             /* Slightly darker grey 
           background for the third column */
         }
@@ -77,7 +86,8 @@
         </div></div>  
   
 <img src="amere.png" alt="patience is bitter but the fruit is sweet" width="100%">
-
+<div class="center2">
+<p class="p3">Contact:Lisa.Ribaudo@gmail.com</p>
  
 
 
