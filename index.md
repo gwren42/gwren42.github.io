@@ -41,7 +41,7 @@
             /* Enables grid layout */
             grid-template-columns: auto auto auto;
             /* Creates two equal-width columns */
-            gap: 10px;
+            gap: 1px;
             /* Adds space between columns */
         }
    .column {
@@ -70,7 +70,7 @@
    <font size="6"> <p class="p3">Nothing here yet</p></font>
 </div>
   <p></p>
-
+<div class="container">
         <div class="column">
 <img src="tea.png" alt="tea cup and pants" width="100%">
         </div>
@@ -80,7 +80,7 @@
         <div class="column">
 <img src="verticalyarn.png" alt="Vertical strips of yarn" width="100%" >
         </div>
-
+</div>
    <p></p>
 <img src="amere.png" alt="patience is bitter but the fruit is sweet" width="100%">
 <div class="center2">
