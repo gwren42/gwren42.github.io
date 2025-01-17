@@ -50,6 +50,7 @@
         }
 
         .column:nth-child(1) {
+        background-color: #f0c2cf;
         }
 
         .column:nth-child(2) {
@@ -58,6 +59,14 @@
 
         .column:nth-child(3) {
             background-color: #f0c2cf;
+        }
+
+               .main{
+            width:100%;
+            height:100%;
+            background-color:yellow;
+            display:flex;
+            justify-content: center;
         }
 </style>
 
@@ -70,14 +79,14 @@
    <font size="6"> <p class="p3">Nothing here yet</p></font>
 </div>
   <p></p>
-<div class="container">
-        <div class="column">
+<div class="main">
+         <div class="image">
 <img src="tea.png" alt="tea cup and pants" width="100%">
         </div>
-        <div class="column">
+         <div class="image">
 <img src="cloudwool.png" alt="wool looking like clouds on a blue background" width="100%" >
           </div>
-        <div class="column">
+         <div class="image">
 <img src="verticalyarn.png" alt="Vertical strips of yarn" width="100%" >
         </div>
 </div>
