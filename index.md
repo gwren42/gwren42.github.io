@@ -1,6 +1,4 @@
----
-layout: home 
----
+
 <style>
   .p3 {
   font-family: "Lucida Console", "Courier New", monospace;
