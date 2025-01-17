@@ -7,6 +7,14 @@ layout: home
   .p3 {
   font-family: "Lucida Console", "Courier New", monospace;
 }
+    .container {
+            display: grid;
+            /* Enables grid layout */
+            grid-template-columns: 1fr 1fr;
+            /* Creates two equal-width columns */
+            gap: 10px;
+            /* Adds space between columns */
+        }
    .column {
             padding: 10px;
             /* Adds padding inside each column */
@@ -23,8 +31,9 @@ layout: home
           background for the second column */
         }
 </style>
-  <body>
-<img src="spbanner2.png" alt="Lisa Makes Stuff Banner" width="100%" class="center"><br>
+
+<body>
+<img src="spbanner2.png" alt="Lisa Makes Stuff Banner" width="90%" class="center"><br>
 <div class="container">
         <div class="column">
 <p class="p3">Nothing here yet</p>
@@ -36,4 +45,6 @@ layout: home
 <img src="tea.png" alt="tea cup and pants" width="30%">
 <img src="cloudwool.png" alt="wool looking like clouds on a blue background" width="30%" >
 <img src="verticalyarn.png" alt="Vertical strips of yarn" width="30%" >
-  </body></head></html>
+</body>
+  </head>
+  </html>
