@@ -42,7 +42,7 @@ layout: home
         <div class="column">
 <img src="amere.png" alt="patience is bitter but the fruit is sweet" width="100%" class="center">
 </div>
-  <div class="column"><div class="center"
+  <div class="column"><div class="center">
    <font size="5"> <p class="p3">Nothing here yet</p></font>
 
   </div></div>
