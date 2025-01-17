@@ -16,6 +16,8 @@
       }
 
     .center1 {
+           margin-left: auto;
+          margin-right: auto;
           text-align: center;
           border: 3px solid green;
           width: 95%;
@@ -56,8 +58,9 @@
 
 <body>
   <div>
-<img src="spbanner2.png" alt="Lisa Makes Stuff Banner" width="95%"></div>
+<img src="spbanner2.png" alt="Lisa Makes Stuff Banner" width="100%"></div>
 <row></row>
+  <p></p>
 <div class="center1">
    <font size="6"> <p class="p3">Nothing here yet</p></font>
 </div>
@@ -73,7 +76,7 @@
 <img src="verticalyarn.png" alt="Vertical strips of yarn" width="100%" >
         </div></div>  
   
-<img src="amere.png" alt="patience is bitter but the fruit is sweet" width="95%">
+<img src="amere.png" alt="patience is bitter but the fruit is sweet" width="100%">
 
  
 
