@@ -18,6 +18,10 @@ layout: home
   border: 2px dashed #f69c55;
 }*/
 
+.row {
+  margin-bottom: 10px;
+}
+
     .center1 {
           text-align: center;
           border: 3px solid green;
@@ -59,12 +63,12 @@ layout: home
 <body>
   <div>
 <img src="spbanner2.png" alt="Lisa Makes Stuff Banner" width="95%"></div>
-
+<row></row>
 <div class="center1">
-   <font size="6"> <p class="p3">Nothing here yet</p></font>
+   <font size="6" width = 95%> <p class="p3">Nothing here yet</p></font>
 </div>
   
-<div class="container">
+<div class="container" width = 95%>
         <div class="column">
 <img src="tea.png" alt="tea cup and pants" width="100%">
         </div>
