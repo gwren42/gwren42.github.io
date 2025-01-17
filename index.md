@@ -4,10 +4,24 @@ layout: home
 <html>
 <head>
 <style>
-  .center1 {
-  text-align: center;
-  border: 3px solid green;
+
+  img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
+
+div {
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  border: 2px dashed #f69c55;
+}
+
+  .center1 {
+      text-align: center;
+      border: 3px solid green;
+  }
   .p3 {
   font-family: "Lucida Console", "Courier New", monospace;
 }
@@ -37,10 +51,10 @@ layout: home
 </style>
 
 <body>
-<img src="spbanner2.png" alt="Lisa Makes Stuff Banner" width="100%" class="center"><br>
+<img src="spbanner2.png" alt="Lisa Makes Stuff Banner" width="90%"><br>
 <div class="container">
         <div class="column">
-<img src="amere.png" alt="patience is bitter but the fruit is sweet" width="100%" class="center">
+<img src="amere.png" alt="patience is bitter but the fruit is sweet" width="100%">
 </div>
   <div class="column"><div class="center1">
    <font size="5"> <p class="p3">Nothing here yet</p></font>
