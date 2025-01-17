@@ -18,17 +18,17 @@ div {
   border: 2px dashed #f69c55;
 }
 
-  .center1 {
-      text-align: center;
-      border: 3px solid green;
-  }
-  .p3 {
-  font-family: "Lucida Console", "Courier New", monospace;
-}
+    .center1 {
+          text-align: center;
+          border: 3px solid green;
+        }
+    .p3 {
+        font-family: "Lucida Console", "Courier New", monospace;
+        }
     .container {
             display: grid;
             /* Enables grid layout */
-            grid-template-columns: 1fr 1fr;
+            grid-template-columns: 1fr 1fr 1fr;
             /* Creates two equal-width columns */
             gap: 10px;
             /* Adds space between columns */
