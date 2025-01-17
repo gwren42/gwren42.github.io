@@ -80,7 +80,7 @@ div {
 <img src="verticalyarn.png" alt="Vertical strips of yarn" width="100%" >
         </div></div>  
   
-<img src="amere.png" alt="patience is bitter but the fruit is sweet" width="100%">
+<img src="amere.png" alt="patience is bitter but the fruit is sweet" width="95%">
 
  
 
