@@ -1,6 +1,4 @@
----
-layout: home 
----
+
 <html>
 <head>
 <style>
@@ -11,12 +9,7 @@ layout: home
     margin-right: auto;
   }
 
-div {
-  height: 100px;
-  line-height: 100px;
-  text-align: center;
-  border: 2px dashed #f69c55;
-}
+
 
     .row {
           margin-bottom: 30px;
