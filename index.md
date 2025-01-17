@@ -16,7 +16,7 @@ div {
   line-height: 100px;
   text-align: center;
   border: 2px dashed #f69c55;
-/
+}
 
     .row {
           margin-bottom: 30px;
