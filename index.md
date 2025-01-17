@@ -28,7 +28,7 @@ layout: home
     .container {
             display: grid;
             /* Enables grid layout */
-            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-columns: auto auto auto;
             /* Creates two equal-width columns */
             gap: 10px;
             /* Adds space between columns */
