@@ -81,13 +81,13 @@
   <p></p>
 <div class="main">
          <div class="image">
-<img src="tea.png" alt="tea cup and pants" width="90%">
+<img src="tea.png" alt="tea cup and pants" width="100%">
         </div>
          <div class="image">
-<img src="cloudwool.png" alt="wool looking like clouds on a blue background" width="90%" >
+<img src="cloudwool.png" alt="wool looking like clouds on a blue background" width="100%" >
           </div>
          <div class="image">
-<img src="verticalyarn.png" alt="Vertical strips of yarn" width="90%" >
+<img src="verticalyarn.png" alt="Vertical strips of yarn" width="100%" >
         </div>
 </div>
    <p></p>
