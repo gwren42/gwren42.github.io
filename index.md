@@ -19,12 +19,13 @@ layout: home
 }*/
 
 .row {
-  margin-bottom: 10px;
+  margin-bottom: 30px;
 }
 
     .center1 {
           text-align: center;
           border: 3px solid green;
+          width: 95%;
         }
     .p3 {
         font-family: "Lucida Console", "Courier New", monospace;
