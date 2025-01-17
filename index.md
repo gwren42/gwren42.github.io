@@ -30,6 +30,7 @@
           background-color: #e6e6e6;
           width: 100%;
           border-top: solid;
+          color: d0819f;
         }
         
     .p3 {
@@ -60,7 +61,7 @@
         }
 
         .column:nth-child(3) {
-            background-color: #ff694b;
+            background-color: #f0c2cf;
             /* Slightly darker grey 
           background for the third column */
         }
@@ -69,12 +70,12 @@
 <body>
   <div>
 <img src="spbanner2.png" alt="Lisa Makes Stuff Banner" width="100%"></div>
-<row></row>
+
   <p></p>
 <div class="center1">
    <font size="6"> <p class="p3">Nothing here yet</p></font>
 </div>
-  
+  <p></p>
 <div class="container">
         <div class="column">
 <img src="tea.png" alt="tea cup and pants" width="100%">
@@ -84,11 +85,12 @@
           </div>
         <div class="column">
 <img src="verticalyarn.png" alt="Vertical strips of yarn" width="100%" >
-        </div></div>  
+        </div>
+</div>  
   
 <img src="amere.png" alt="patience is bitter but the fruit is sweet" width="100%">
 <div class="center2">
-<p class="p3">Contact:Lisa.Ribaudo@gmail.com</p>
+<p class="p3">Contact:Lisa.Ribaudo@gmail.com</p></div>
  
 
 
