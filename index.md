@@ -6,21 +6,21 @@ layout: home
 <style>
 
   img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
-/*div {
+div {
   height: 100px;
   line-height: 100px;
   text-align: center;
   border: 2px dashed #f69c55;
-}*/
+/
 
-.row {
-  margin-bottom: 30px;
-}
+    .row {
+          margin-bottom: 30px;
+      }
 
     .center1 {
           text-align: center;
