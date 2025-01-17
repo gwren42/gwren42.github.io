@@ -20,7 +20,7 @@
           margin-right: auto;
           text-align: center;
           border: 3px solid green;
-          width: 95%;
+          width: 100%;
         }
 
   .center2 {
@@ -28,7 +28,8 @@
           margin-right: auto;
           text-align: center;
           background-color: #e6e6e6;
-          width: 95%;
+          width: 100%;
+          border-top: solid;
         }
         
     .p3 {
