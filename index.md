@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
@@ -27,8 +27,8 @@ td {
 <p><b> Experience</b></p>
 <table>
   <tr>
-  <td style="text-align:right;vertical-align:top">4/24-11/24</td>
-  <td style="text-align:right;vertical-align:top"><b>Catalyst/Materials Engineer<br></b>
+  <td style="text-align:left;vertical-align:top;width:30%">4/24-11/24</td>
+  <td style="text-align:left;vertical-align:top"><b>Catalyst/Materials Engineer<br></b>
 		 <i>FuelCell Energy, Danbury, CT<br></i>
     • Assisted research aimed at developing new steam reforming catalysts through data analysis and lab work.<br>
     • Implemented data management system for current and historical test data and improved data accessibility through R-Shiny dashboard.<br>
@@ -38,7 +38,7 @@ td {
 
 
   
-<p>Contact: Lisa.Ribaudo@gmail.com</p></div>
+<p>Contact: Lisa.Ribaudo@gmail.com</p>
  
 
 
