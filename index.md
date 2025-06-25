@@ -28,7 +28,7 @@ td {
 <p>Six Sigma Black Belt • SQL • R • GIS • Microsoft Suite & online collaboration <br>  Working knowledge French, Spanish</p>
 
 
-<p><strong>Education</strong></p>
+<p><b>Education</b></p>
 <table style="border-style:none">
 	<tr>
    <td style="text-align:left;vertical-align:top;width:20%">2003–2007</td>
@@ -53,7 +53,7 @@ td {
   </tr>
 </table>
 
-<p><em> Experience</em></p>
+<p><b> Experience</b></p>
 <table style="border-style:none">
   <tr>
   <td style="text-align:left;vertical-align:top;width:20%">4/24-11/24</td>
@@ -131,7 +131,7 @@ td {
 
 
   
-<p>Contact: Lisa.Ribaudo@gmail.com</p>
+<b><p>Contact: Lisa.Ribaudo@gmail.com</p></b>
  
 
 
