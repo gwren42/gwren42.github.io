@@ -22,15 +22,15 @@ td {
 </head>
 <body>
 
-<h1 style="text-decoration: none;">L. Ribaudo<br></h1><hr>
-<h2><p><b> Summary </b></p></h2>
+<h1 style="text-decoration: none;">L. Ribaudo</h1><hr>
+<h2><b> Summary </b></h2>
 <p>Detail oriented and results driven engineer with extensive teaching experience offers a mature perspective, a deep commitment to continuous learning, and ability to solve problems creatively by drawing from experience in diverse sectors.</p>     
 
-<h2><p><b>Skills and Certifications</b></p></h2>
+<h2><b>Skills and Certifications</b></h2>
 <p>Six Sigma Black Belt • SQL • R • GIS • Microsoft Suite & online collaboration <br>  Working knowledge French, Spanish</p>
 
 
-<h2><p><b>Education</b></p></h2>
+<h2><b>Education</b></h2>
 <table style="border-style:none">
 	<tr>
    <td style="text-align:left;vertical-align:top;width:20%">2003–2007</td>
@@ -55,7 +55,7 @@ td {
   </tr>
 </table>
 
-<h2><p><b> Experience</b></p></h2>
+<h2><b> Experience</b></h2>
 <table style="border-style:none">
   <tr>
   <td style="text-align:left;vertical-align:top;width:20%">4/24-11/24</td>
