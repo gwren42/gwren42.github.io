@@ -32,22 +32,22 @@ td {
 	<tr>
    <td style="text-align:left;vertical-align:top;width:20%">2003–2007</td>
   <td style="text-align:left;vertical-align:top">Columbia University, New York, NY<br>
-			BSc Earth & Environmental Engineering<br>
-			Minor Economics
+			<i>BSc Earth & Environmental Engineering<br>
+			Minor Economics</i>
       </td>
   </tr>
 	<tr>
    <td style="text-align:left;vertical-align:top;width:20%">2010-2012</td>
   <td style="text-align:left;vertical-align:top">SUNY Albany School of Public Health, Albany, NY<br>
 			Hudson Valley Community College, Troy, NY<br>
-			Various graduate and undergraduate courses while working at NYS DOH
+			<i>Various graduate and undergraduate courses while working at NYS DOH</i>
       </td>
   </tr>
 	<tr>
    <td style="text-align:left;vertical-align:top;width:20%">2012-2014</td>
   <td style="text-align:left;vertical-align:top">McGill University, Montreal, QC <br>
-			Completed coursework required for MSc in Geography<br>
- 			Thesis not submitted
+			<i>Completed coursework required for MSc in Geography<br>
+ 			Thesis not submitted</i>
       </td>
   </tr>
 </table>
@@ -116,8 +116,7 @@ td {
     • Communicated results and recommendations to academic partners and community stakeholders through fliers, public health letters, presentations, and peer-reviewed publications.<br>
       </td>
     </tr>
-    
-	 <tr>
+ <tr>
   <td style="text-align:left;vertical-align:top;width:20%">6/07-6/09  </td>
   <td style="text-align:left;vertical-align:top"><b>Peace Corps Volunteer, Water and Sanitation Extension<br></b>
 		 <i>            Peace Corps, Kayes Region, Mali<br></i>
