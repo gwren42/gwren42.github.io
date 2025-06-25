@@ -1,7 +1,7 @@
 
 <html>
 <head>
-	 <link rel="shortcut icon" type="image/x-icon" href="cloudwool.png?">
+	 <link rel="shortcut icon" type="image/x-icon" href="gwren42.github.io/cloudwool.png?">
 
 <style>
 .h1 {
