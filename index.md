@@ -72,7 +72,10 @@
 
 <body>
   <div>
-<img src="spbanner2.png" alt="Lisa Makes Stuff Banner" width="100%"></div>
+<p>L. Ribaudo</p>
+<b>  Skills and Certifications</b><p>
+Six Sigma Black Belt • EIT • Proficient in SQL, R, GIS, Microsoft Suite & online collaboration • Experience with Python, Javascript •  Working knowledge French, Spanish</p>
+  </div>
 
   <p></p>
 <div class="center1">
