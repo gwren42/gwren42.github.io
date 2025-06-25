@@ -72,9 +72,12 @@
 
 <body>
   <div>
-<p>L. Ribaudo</p>
-<b>  Skills and Certifications</b><p>
-Six Sigma Black Belt • EIT • Proficient in SQL, R, GIS, Microsoft Suite & online collaboration • Experience with Python, Javascript •  Working knowledge French, Spanish</p>
+<b><p>L. Ribaudo</p></b>
+
+<p><b> Summary </b></p>
+<p>Detail oriented and results driven engineer with extensive teaching experience offers a mature perspective, a deep commitment to continuous learning, and ability to solve problems creatively by drawing from experience in diverse sectors.</p>     
+<p></p><b>  Skills and Certifications</b></p>
+Six Sigma Black Belt • Proficient in SQL, R, GIS, Microsoft Suite & online collaboration • Experience with Python, Javascript <br>  Working knowledge French, Spanish</p>
   </div>
 
   <p></p>
