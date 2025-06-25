@@ -1,7 +1,8 @@
 
 <html>
 <head>
-	<link rel="icon" href="cloudwool.png" type="image/x-icon">
+	 <link rel="shortcut icon" type="image/x-icon" href="cloudwool.png">
+
 <style>
 .h1 {
       text-decoration: none;
