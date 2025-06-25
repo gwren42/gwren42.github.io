@@ -1,6 +1,7 @@
 
 <html>
 <head>
+	<link rel="icon" href="cloudwool.png" type="image/x-icon">
 <style>
 .table, td, th {
   border: 1px solid black;
