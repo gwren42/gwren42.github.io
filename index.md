@@ -21,10 +21,10 @@ td {
 </head>
 <body>
 
-<h1>L. Ribaudo<br></h1>
-<h2></h2><p><b> Summary </b></p></h2><hr>
+<h1>L. Ribaudo<br></h1><hr>
+<h2><p><b> Summary </b></p></h2>
 <p>Detail oriented and results driven engineer with extensive teaching experience offers a mature perspective, a deep commitment to continuous learning, and ability to solve problems creatively by drawing from experience in diverse sectors.</p>     
-<h2></h2><p><b>  Skills and Certifications</h2></h2></b></p>
+<h2><p><b>  Skills and Certifications</h2></b></p>
 <p>Six Sigma Black Belt • SQL • R • GIS • Microsoft Suite & online collaboration <br>  Working knowledge French, Spanish</p>
 
 
