@@ -27,7 +27,7 @@ td {
 <p>Six Sigma Black Belt • SQL • R • GIS • Microsoft Suite & online collaboration <br>  Working knowledge French, Spanish</p>
 
 
-<p><b>Education</b></p>
+<p><strong>Education</strong></p>
 <table style="border-style:none">
 	<tr>
    <td style="text-align:left;vertical-align:top;width:20%">2003–2007</td>
@@ -52,7 +52,7 @@ td {
   </tr>
 </table>
 
-<p><b> Experience</b></p>
+<p><em> Experience</em></p>
 <table style="border-style:none">
   <tr>
   <td style="text-align:left;vertical-align:top;width:20%">4/24-11/24</td>
@@ -136,5 +136,5 @@ td {
 
 
   </body>
-  </head>
+
   </html>
