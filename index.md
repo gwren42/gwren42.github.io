@@ -1,83 +1,44 @@
-
+<!DOCTYPE html>
 <html>
 <head>
 <style>
+table, td, th {
+  border: 1px solid black;
+}
 
-  img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
 
-
-
-    .row {
-          margin-bottom: 30px;
-      }
-
-    .center1 {
-           margin-left: auto;
-          margin-right: auto;
-          text-align: center;
-          
-          width: 100%;
-        }
-
-  .center2 {
-           margin-left: auto;
-          margin-right: auto;
-          text-align: center;
-          background-color: #e6e6e6;
-          width: 100%;
-          border-top: solid;
-          color: d0819f;
-        }
-        
-    .p3 {
-        font-family: "Lucida Console", "Courier New", monospace;
-        }
-    .container {
-            display: grid;
-            /* Enables grid layout */
-            grid-template-columns: auto auto auto;
-            /* Creates two equal-width columns */
-            gap: 1px;
-            /* Adds space between columns */
-        }
-   .column {
-            padding: 3px;
-            /* Adds padding inside each column */
-        }
-
-        .column:nth-child(1) {
-        background-color: #f0c2cf;
-        }
-
-        .column:nth-child(2) {
-            background-color: #f0c2cf;
-         }
-
-        .column:nth-child(3) {
-            background-color: #f0c2cf;
-        }
-
-               .main{
-            width:100%;
-            height:100%;
-            background-color:yellow;
-            display:flex;
-            justify-content: center;
-        }
+td {
+  text-align: left;
+}
 </style>
-
+</head>
 <body>
-  <div>
-<b><p>L. Ribaudo</p></b>
+
+<h2>The text-align Property</h2>
+<h2>L. Ribaudo</h2>
 
 <p><b> Summary </b></p>
 <p>Detail oriented and results driven engineer with extensive teaching experience offers a mature perspective, a deep commitment to continuous learning, and ability to solve problems creatively by drawing from experience in diverse sectors.</p>     
 <p><b>  Skills and Certifications</b></p>
-<p>Six Sigma Black Belt • Proficient in SQL, R, GIS, Microsoft Suite & online collaboration • Experience with Python, Javascript <br>  Working knowledge French, Spanish</p>
+<p>Six Sigma Black Belt • SQL, R, GIS, Microsoft Suite & online collaboration • Experience with Python, Javascript <br>  Working knowledge French, Spanish</p>
+
+<p><b> Experience</b></p>
+<table>
+  <tr>
+  <td style="border: 0px solid red;text-align:right;width:50%;vertical-align:top;">4/24-11/24</td>
+  <td style="border: 0px solid red;text-align:right;vertical-align:top;"><b>Catalyst/Materials Engineer<br></b>
+		 <i>FuelCell Energy, Danbury, CT<br></i>
+    • Assisted research aimed at developing new steam reforming catalysts through data analysis and lab work.<br>
+    • Implemented data management system for current and historical test data and improved data accessibility through R-Shiny dashboard.<br>
+      </td>
+</table>
+
+
+
   </div>
 
   <p></p>
