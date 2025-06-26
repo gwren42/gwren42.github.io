@@ -19,7 +19,7 @@ h1:before {
   bottom: 0;
   right:0;  
   margin:0 auto;
-  color:red;
+  color:blue;
   style="text-decoration:none;
   list-style:none"
 }
