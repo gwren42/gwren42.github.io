@@ -13,7 +13,7 @@ h1:before {
   content: '';
   width: 75px;
   height: 3px;
-  background: red;
+  background: blue;
   position: absolute;
   left: 0px;
   bottom: 0;
