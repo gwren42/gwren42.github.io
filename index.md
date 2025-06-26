@@ -4,8 +4,9 @@
 	 <link rel="shortcut icon" type="image/x-icon" href="gwren42.github.io/cloudwool.png?">
 
 <style>
-.h1 {
+h1 {
       text-decoration: none;
+	list-style:none
     }
 .table, td, th {
   border: 1px solid black;
