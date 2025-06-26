@@ -50,7 +50,7 @@ td {
 
 .td2 {
   text-align: left;
-  width: 70%;
+  width: 100%;
   vertical-align:top;
 }
 </style>
