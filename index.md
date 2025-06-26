@@ -20,6 +20,8 @@ h1:before {
   right:0;  
   margin:0 auto;
   color:red;
+  style="text-decoration:none;
+  list-style:none"
 }
 	
 table, td, th {
