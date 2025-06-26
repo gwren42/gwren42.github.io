@@ -29,10 +29,12 @@ table, td, th {
 	
 }
 
-table {
+.table {
   border-collapse: collapse;
   width: 100%;
   border-style: none;
+  max-width: 100%;
+  overflow: scroll;
 }
 
 td {
@@ -52,7 +54,7 @@ Contact: Lisa.Ribaudo@gmail.com<br>
 
 
 <h2><b>Education</b></h2>
-<table style="border-style:none;width:100%">
+<table class=table>
 	<tr>
    <td style="text-align:left;vertical-align:top;width:20%">2003–2007</td>
   <td style="text-align:left;vertical-align:top;width:80%">Columbia University, New York, NY<br>
