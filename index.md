@@ -30,7 +30,7 @@ td {
 <p>Detail oriented and results driven engineer with extensive teaching experience offers a mature perspective, a deep commitment to continuous learning, and ability to solve problems creatively by drawing from experience in diverse sectors.</p>     
 
 <h2><b>Skills and Certifications</b></h2>
-<p>Six Sigma Black Belt • SQL • R • GIS • Microsoft Suite & online collaboration <br>  Working knowledge French, Spanish</p>
+<p>Six Sigma Black Belt • SQL • R • Python • GIS • Microsoft Suite & online collaboration </p>
 
 
 <h2><b>Education</b></h2>
@@ -59,7 +59,7 @@ td {
 </table>
 
 <h2><b> Experience</b></h2>
-<table style="border-style:none">
+<table style="border-style:none;width:100%">
   <tr>
   <td style="text-align:left;vertical-align:top;width:20%">4/24-11/24</td>
   <td style="text-align:left;vertical-align:top"><b>Catalyst/Materials Engineer<br></b>
