@@ -20,7 +20,7 @@ h1:before {
   right:0;  
   margin:0 auto;
   color:blue;
-  style="text-decoration:none;
+  text-decoration:none;
   list-style:none"
 }
 	
@@ -40,6 +40,12 @@ table, td, th {
 td {
   text-align: left;
 }
+
+.td {
+  text-align: left;
+  width: 30%;
+  vertical-align:top;
+}
 </style>
 </head>
 <body>
@@ -56,7 +62,7 @@ Contact: Lisa.Ribaudo@gmail.com<br>
 <h2><b>Education</b></h2>
 <table class=table>
 	<tr>
-   <td style="text-align:left;vertical-align:top;width:20%">2003–2007</td>
+   <td class=td>2003–2007</td>
   <td style="text-align:left;vertical-align:top;width:80%">Columbia University, New York, NY<br>
 			<i>BSc Earth & Environmental Engineering<br>
 			Minor Economics</i>
