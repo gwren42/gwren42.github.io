@@ -35,7 +35,7 @@ td {
 
 
 <h2><b>Education</b></h2>
-<table style="border-style:none">
+<table style="border-style:none;width:100%">
 	<tr>
    <td style="text-align:left;vertical-align:top;width:20%">2003–2007</td>
   <td style="text-align:left;vertical-align:top">Columbia University, New York, NY<br>
