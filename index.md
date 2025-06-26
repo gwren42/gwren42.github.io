@@ -25,7 +25,7 @@ td {
 </head>
 <body>
 
-<h1 style="text-decoration:none;list-style:none">L. Ribaudo</h1>
+<h1 style="text-decoration:none;list-style:none">L. Ribaudo<h4><br>lisa.ribaudo@gmail.com</h4></h1>
 <h2><b> Summary </b></h2>
 <p>Detail oriented and results driven engineer with extensive teaching experience offers a mature perspective, a deep commitment to continuous learning, and ability to solve problems creatively by drawing from experience in diverse sectors.</p>     
 
