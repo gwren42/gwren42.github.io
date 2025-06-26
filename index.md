@@ -69,8 +69,7 @@ td {
     • Implemented data management system for current and historical test data and improved data accessibility through R-Shiny dashboard.<br>
       </td>
   </tr>
-	
-   <tr>
+	   <tr>
   <td style="text-align:left;vertical-align:top;width:20%">2/23-Present</td>
   <td style="text-align:left;vertical-align:top"><b>College Prep Instructor/College Prep Tutor<br></b>
 		 <i>The Princeton Review, remote and in local schools<br></i>
@@ -80,8 +79,7 @@ td {
     • Streamlined writing and sending personalized student reports with custom data analysis and mail merge in R.<br>
       </td>
    </tr>
-   
-	  <tr>
+   	  <tr>
   <td style="text-align:left;vertical-align:top;width:20%">2015-Present</td>
   <td style="text-align:left;vertical-align:top"><b>Tutor/Teacher<br></b>
 		 <i>Links Academy, Stamford CT<br></i>
@@ -95,16 +93,14 @@ td {
               <i>Private Tutoring, Elkton, MD & Bethel, CT</i><br>
       </td>
    </tr>
-  
-		  <tr>
+  		  <tr>
   <td style="text-align:left;vertical-align:top;width:20%">2016-2019</td>
   <td style="text-align:left;vertical-align:top"><b>Assorted Digital Services<br></b>
 		 <i>Freelance, remote<br></i>
           • Website maintenance (Wordpress), social media marketing, content writing, 	image editing, shipping coordination<br>
       </td>
    </tr>
-   
-    <tr>    
+       <tr>    
   <td style="text-align:left;vertical-align:top;width:20%">2012-2014 </td>
   <td style="text-align:left;vertical-align:top"><b>Research Assistant & Candidate for MSc Geography<br></b>
 		 <i>      McGill University, Montreal, QC<br>
@@ -112,8 +108,7 @@ td {
    • Compiled data on global agricultural land use from print sources in various languages and online data mining; rectified discrepancies in geographic boundaries; analyzed land use change using R, Python and ArcGIS.<br>
       </td>
     </tr>
-    
-	 <tr>
+    	 <tr>
   <td style="text-align:left;vertical-align:top;width:20%">5/10-6/12  </td>
   <td style="text-align:left;vertical-align:top"><b>Assistant Research Scientist<br></b>
 		 <i>            NYS Department of Health, Troy, NY<br>
