@@ -41,9 +41,15 @@ td {
   text-align: left;
 }
 
-.td {
+.td1 {
   text-align: left;
-  width: 30%;
+  width: 20%;
+  vertical-align:top;
+}
+
+.td2 {
+  text-align: left;
+  width: 80%;
   vertical-align:top;
 }
 </style>
@@ -62,8 +68,8 @@ Contact: Lisa.Ribaudo@gmail.com<br>
 <h2><b>Education</b></h2>
 <table class=table>
 	<tr>
-   <td class=td>2003–2007</td>
-  <td style="text-align:left;vertical-align:top;width:80%">Columbia University, New York, NY<br>
+   <td class=td1>2003–2007</td>
+  <td class=td2>Columbia University, New York, NY<br>
 			<i>BSc Earth & Environmental Engineering<br>
 			Minor Economics</i>
       </td>
