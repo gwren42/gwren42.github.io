@@ -44,13 +44,13 @@ td {
 
 .td1 {
   text-align: left;
-  
+  width: 30%;
   vertical-align:top;
 }
 
 .td2 {
   text-align: left;
-  
+  width: 70%;
   vertical-align:top;
 }
 </style>
