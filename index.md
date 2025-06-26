@@ -30,6 +30,7 @@ table, td, th {
 }
 
 .table {
+  position: relative;
   border-collapse: collapse;
   width: 100%;
   border-style: none;
