@@ -4,16 +4,30 @@
 	<link rel="shortcut icon" type="image/x-icon" href="gwren42.github.io/favicon.ico?">
 
 <style>
+
 h1 {
-      text-decoration: none;
-	list-style:none
-    }
-.table, td, th {
+  position: relative;
+  display: inline-block;
+}
+h1:before {
+  content: '';
+  width: 75px;
+  height: 3px;
+  background: #006699;
+  position: absolute;
+  left: 0px;
+  bottom: 0;
+  right:0;  
+  margin:0 auto;
+  color:red;
+}
+	
+table, td, th {
   border: 1px solid black;
 	
 }
 
-.table {
+table {
   border-collapse: collapse;
   width: 100%;
   border-style: none;
